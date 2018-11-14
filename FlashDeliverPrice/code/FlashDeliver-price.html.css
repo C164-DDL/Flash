@@ -1,0 +1,21 @@
+#PriceBackground1{
+     background-image:url(../pcs/Background1.jpg);
+     background-repeat: no-repeat;
+     background-size:120%;
+     height: 100%;
+ }
+#experiencebuttom{
+    margin-bottom: 10%;
+    text-align: center;
+    padding-bottom: 15%
+}
+
+#words_style{
+    margin-left: 30px
+}
+
+#title_style{
+    padding-top: 4%;
+    text-align: center
+}
+
